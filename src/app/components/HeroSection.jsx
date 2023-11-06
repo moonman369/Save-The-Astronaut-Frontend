@@ -62,13 +62,10 @@ const HeroSection = () => {
           transition={{ duration: 0.5 }}
           className="col-span-4 place-self-center mt-4 lg:mt-0"
         >
-        <div className="rounded-top bg-[#c6bc36] w-[50px] h-[50px] lg:w-[250px] 
-          lg:h-[30px] relative"></div>
-          <div className="rounded-full bg-[#a736c6] w-[320px] h-[150px] lg:w-[550px] 
-          lg:h-[450px] relative">
-          <div className="rounded-full bg-[#c636a7] w-[350px] h-[350px] lg:w-[350px] 
-          lg:h-[150px] relative">
-          </div>
+      
+          <div className="rounded-full bg-[#a736c6] w-[350px] h-[350px] lg:w-[630px] 
+          lg:h-[350px] relative">
+         
             <Image
               src="/images/1oj.png"
               alt="hero image"

@@ -24,7 +24,9 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Fullstack Academy of Code</li>
-        <li>University of California, Santa Cruz</li>
+        <li>Master Degree in Business Managerial Informatics Zagreb,Croatia</li>
+        <li>Chainlink Developer Experts Community</li>
+        <li>Moralis Mages Community</li>
       </ul>
     ),
   },
