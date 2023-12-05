@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
+    "@web3modal/ethers": "^3.4.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.0",
     "framer-motion": "^10.16.4",
     "next": "14.0.1",
     "react": "^18",
